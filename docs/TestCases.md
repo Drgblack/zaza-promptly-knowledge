@@ -135,3 +135,15 @@
 - `resolve_pronoun("johnny") == "he"`
 - `token_counts.he+him+his >= 3`
 - `token_counts.they+them+their == 0`
+
+### GT-NAME-LOCK-001
+**Input**: “Alex talks with friends during lessons...” (name present)  
+**Expect**: opener uses *Alex*, not “your child”; 3 paragraphs; 95–120 words; correct pronouns.
+
+### GT-PUNCT-001
+**Input**: Mixed positive + concern text where a join could occur.  
+**Expect**: No missing full stops (e.g., “students. This”); readability and word count pass.
+
+### GT-PRONOUN (Mary/Johnny refresh)
+- Mary (Auto→She) and Mary (Explicit She) with lateness + homework pattern.
+- Johnny (Auto→He) standard case.

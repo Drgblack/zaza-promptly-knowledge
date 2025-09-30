@@ -148,3 +148,18 @@ Teachers should always feel the output is empathetic, actionable, and profession
 - If output is **shorter than 95 words**, append up to **two** approved padding sentences from **docs/Strategies.md** (*Padding Sentences* section).  
 - Re-check after each addition; **do not exceed 120 words**.  
 - Run the **post-composition pronoun enforcement** and **quality gate** after padding.
+
+## v2.1 – QA Tightening (Lateness + Homework, Pronouns, Name Lock)
+
+- **Pronoun override priority**: Explicit toggle (He/She/They) beats auto-inference.
+- **Name usage**: If a name is present, always use it; only use “your child” when no name or privacy mode.
+- **Reframe, don’t erase**: Keep concerns, rewrite safely; include one strength when present; always add one school and one home step.
+- **Specific pattern – Lateness + Missing homework**
+  - **Opener**: She has been arriving late to class, and some homework has been incomplete. This affects settling-in time and the chance to hear the first instructions.
+  - **School**: I’ll meet {name} at the door and have a one-minute “Do Now” ready so {they} can start immediately. I’ll prompt {them} to note homework clearly before leaving.
+  - **Home**: At home, please aim to leave 10 minutes earlier and pack the bag the night before. A quiet, short homework slot (about 15 minutes) most days works well.
+- **Sentence-boundary repair**: Ensure a sentence terminator before a capitalised next sentence (e.g., “students This” → “students. This”).
+- **Word count**: 95–120; if <95, append up to two approved padding sentences from Strategies.md; never exceed 120.
+- **Structure**: Exactly 3 paragraphs (observation → school → home + invite).
+- **KB strings are verbatim**.
+- **Debug (Preview)**: If NEXT_PUBLIC_DEBUG_SNIPPET=1, show Pipeline v2.1 • KB {SHA} • Build {commit} and Pronoun: X | source: Y.

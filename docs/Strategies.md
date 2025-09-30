@@ -62,3 +62,16 @@ They should be appended after composition and before the quality gate.
 **Encouragement / strengths**
 - I value the effort being shown and want to build on every small step forward.
 - Thank you for your continued support—it makes a real difference.
+
+### Padding Sentences (safe expansion to meet 95–120 words)
+
+- Thank you for your support and partnership as we help build steady routines.
+- I appreciate your help while we keep next steps clear and manageable.
+- I’ll continue to monitor progress and keep you informed.
+- Please let me know a good time to talk through next steps together.
+
+### Pattern: Lateness + Missing homework (verbatim strategies)
+
+**School** — I’ll meet {name} at the door and have a one-minute “Do Now” ready so {they} can start immediately. I’ll prompt {them} to note homework clearly before leaving.
+
+**Home** — At home, please aim to leave 10 minutes earlier and pack the bag the night before. A quiet, short homework slot (about 15 minutes) most days works well.
