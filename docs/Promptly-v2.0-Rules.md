@@ -142,3 +142,9 @@ Parsing → slot-filling → strategy insertion → composition → pronoun enfo
 All rules should be enforced deterministically (not left to the model’s discretion).
 
 Teachers should always feel the output is empathetic, actionable, and professional.
+
+### Padding rule (word-count compliance)
+
+- If output is **shorter than 95 words**, append up to **two** approved padding sentences from **docs/Strategies.md** (*Padding Sentences* section).  
+- Re-check after each addition; **do not exceed 120 words**.  
+- Run the **post-composition pronoun enforcement** and **quality gate** after padding.
