@@ -3,6 +3,25 @@ Purpose
 
 These rules define how Promptly generates parent messages. They ensure every output is professional, supportive, and consistent, meeting the standard teachers expect from Promptly.
 
+## Pronoun policy (strict)
+
+- The snippet must use **exactly** the selected pronouns:
+  - **He** → he / him / his
+  - **She** → she / her / hers
+  - **They** → they / them / their
+- **Auto** resolves via `data/first-names-en-de.csv` (case-insensitive; trim & lowercase). If not found, default to **they/them**.
+- When **He** or **She** is selected, **never** use “they/them/their”. No mixed sets.
+- Enforce **subject–verb agreement** for the selected pronoun (e.g., *she is*, *he has*, *they are*).
+- After composing the note, run a **post-composition enforcement pass** that:
+  1) expands ambiguous forms,
+  2) substitutes any stray neutral or wrong pronouns with the selected set (including inside strategy strings),
+  3) re-checks grammar after substitutions.
+- The **quality gate MUST fail** if:
+  - a wrong pronoun form appears,
+  - **mixed pronouns** appear for the student (e.g., “she … they …”).
+
+
+
 1. Structure
 
 All outputs must follow a 3-paragraph template:
@@ -43,40 +62,32 @@ Strength line: Required (e.g. “She has shown strong focus in PE, and we can bu
 
 Pronouns: Determined by Auto/He/She/They toggle. Must be consistent and grammatically correct.
 
-3. Strategy Bank
+## 3. Strategy Bank
 
-All strategies must come from the following bank (verbatim text).
-Do not allow the model to generate new strategies.
+All strategies must come from the following bank (verbatim text with placeholders).
+Do not allow the model to invent new strategies.
 
-lateness
+### lateness
+- **School:** “I’ll meet {name} at the door with a short ‘Do Now’ so {pro.subj} can start immediately.”
+- **Home:** “Please aim to leave 10 minutes earlier; packing the bag the night before often helps.”
 
-School: “I’ll meet {name} at the door with a short ‘Do Now’ so they can start immediately.”
+### focus/disruption
+- **School:** “I’ll use a quiet 2-step cue and seat {name} where distractions are lower.”
+- **Home:** “Let’s agree on one cue word you can also use so the message is consistent.”
 
-Home: “Please aim to leave 10 minutes earlier; packing the bag the night before often helps.”
+### throwing items
+- **School:** “We’ll reteach room-safety routines and provide a safe place to put items when upset.”
+- **Home:** “If this happens at home, a calm pause plus practice putting the item down is helpful.”
 
-focus/disruption
+### missing_homework
+- **School:** “I’ll give a simple checklist and accept a partial restart.”
+- **Home:** “Set a 15-minute homework slot; a timer and quiet space make it easier.”
 
-School: “I’ll use a quiet 2-step cue and seat {name} where distractions are lower.”
+### tired/sleepy
+- **School:** “I’ll offer a water break and short stretch at the start.”
+- **Home:** “A steady bedtime and a quick breakfast or snack usually improves focus.”
 
-Home: “Let’s agree on one cue word you can also use so the message is consistent.”
-
-throwing items
-
-School: “We’ll reteach room-safety routines and provide a safe place to put items when upset.”
-
-Home: “If this happens at home, a calm pause + practice putting the item down is helpful.”
-
-missing_homework
-
-School: “I’ll give a simple checklist and accept a partial restart.”
-
-Home: “Set a 15-minute homework slot; a timer and quiet space make it easier.”
-
-tired/sleepy
-
-School: “I’ll offer a water break and short stretch at the start.”
-
-Home: “A steady bedtime and a quick breakfast or snack usually improves focus.”
+Implementation note for Claude: before rendering, resolve {pro.subj|obj|poss} from the pronoun toggle (or Auto via CSV). Then run the post-composition pronoun enforcement pass.
 
 4. Openers & Invite
 
