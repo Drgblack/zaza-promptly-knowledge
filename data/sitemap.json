@@ -1,0 +1,119 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "Zaza Technologies - AI Tools for Teachers and Professionals",
+      "priority": 1.0
+    },
+    {
+      "path": "/products",
+      "title": "All Products - Zaza Technologies",
+      "priority": 0.9
+    },
+    {
+      "path": "/products/teachers",
+      "title": "Teacher Suite - AI Tools for Educators",
+      "priority": 0.9
+    },
+    {
+      "path": "/products/teachers/teach",
+      "title": "Teach - Comprehensive Lesson Planning Tool",
+      "priority": 0.8
+    },
+    {
+      "path": "/products/teachers/promptly",
+      "title": "Promptly - AI Student Feedback Generator",
+      "priority": 0.8
+    },
+    {
+      "path": "/products/teachers/autoplanner",
+      "title": "AutoPlanner - Automated Lesson Planning",
+      "priority": 0.8
+    },
+    {
+      "path": "/products/teachers/inbox",
+      "title": "Inbox - Teacher Communication Hub",
+      "priority": 0.8
+    },
+    {
+      "path": "/products/close",
+      "title": "Close Suite - Professional Communication Tools",
+      "priority": 0.9
+    },
+    {
+      "path": "/products/close/agent",
+      "title": "Close Agent - AI Communication Assistant",
+      "priority": 0.8
+    },
+    {
+      "path": "/products/close/inbox",
+      "title": "Close Inbox - Professional Email Management",
+      "priority": 0.8
+    },
+    {
+      "path": "/products/close/extension",
+      "title": "Close Extension - Browser Productivity Tool",
+      "priority": 0.8
+    },
+    {
+      "path": "/solutions",
+      "title": "Solutions - Zaza Technologies",
+      "priority": 0.7
+    },
+    {
+      "path": "/pricing",
+      "title": "Pricing - Zaza Technologies",
+      "priority": 0.8
+    },
+    {
+      "path": "/resources",
+      "title": "Resources - Zaza Technologies",
+      "priority": 0.6
+    },
+    {
+      "path": "/resources/blog",
+      "title": "Blog - Zaza Technologies",
+      "priority": 0.6
+    },
+    {
+      "path": "/resources/case-studies",
+      "title": "Case Studies - Zaza Technologies",
+      "priority": 0.6
+    },
+    {
+      "path": "/resources/docs",
+      "title": "Documentation - Zaza Technologies",
+      "priority": 0.6
+    },
+    {
+      "path": "/company",
+      "title": "Company - Zaza Technologies",
+      "priority": 0.5
+    },
+    {
+      "path": "/company/about",
+      "title": "About - Zaza Technologies",
+      "priority": 0.5
+    },
+    {
+      "path": "/company/security",
+      "title": "Security - Zaza Technologies",
+      "priority": 0.5
+    },
+    {
+      "path": "/company/support",
+      "title": "Support - Zaza Technologies",
+      "priority": 0.5
+    },
+    {
+      "path": "/company/privacy",
+      "title": "Privacy Policy - Zaza Technologies",
+      "priority": 0.5
+    },
+    {
+      "path": "/contact",
+      "title": "Contact - Zaza Technologies",
+      "priority": 0.6
+    }
+  ]
+}

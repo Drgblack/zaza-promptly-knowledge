@@ -1,0 +1,29 @@
+﻿# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors / IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Archives / temporary
+*.zip
+*.tar
+*.tar.gz
+*.tmp
+~$*
+
+# Build outputs (if any small scripts appear later)
+dist/
+build/
+coverage/
+
+# Language caches (future-proof)
+node_modules/
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+__pycache__/
+*.py[cod]

@@ -1,0 +1,354 @@
+{
+  "title": "Parent Message Makeover Kit",
+  "subtitle": "Transform rough notes into parent-ready messages using proven frameworks and templates",
+  "version": "1.0",
+  "sections": [
+    {
+      "heading": "How to use this kit",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Great parent communication builds bridges, not walls. This kit transforms awkward conversations into collaborative partnerships using the PACE framework and field-tested templates."
+        },
+        {
+          "type": "callout",
+          "style": "timesaver",
+          "title": "Quick transformation",
+          "text": "Pick any scenario template (pages 4-12), replace the brackets with your details, and send. Each template includes email and SMS versions for flexibility."
+        },
+        {
+          "type": "paragraph",
+          "text": "Every template follows research-backed communication principles: lead with positives, focus on specific behaviours, offer collaborative solutions, and end with encouragement."
+        }
+      ]
+    },
+    {
+      "heading": "The PACE framework",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "PACE ensures every message builds relationship while addressing the issue. Use this sequence for any parent communication."
+        },
+        {
+          "type": "step",
+          "n": 1,
+          "title": "P - Positive opening",
+          "text": "Start with something genuinely positive about the student or situation. This creates openness and shows you see the whole child."
+        },
+        {
+          "type": "step",
+          "n": 2,
+          "title": "A - Action or observation",
+          "text": "State facts without judgment. Describe specific behaviours or situations using neutral language."
+        },
+        {
+          "type": "step",
+          "n": 3,
+          "title": "C - Context and collaboration",
+          "text": "Explain why this matters for learning and invite parent partnership. Frame as 'working together' not 'fixing problems'."
+        },
+        {
+          "type": "step",
+          "n": 4,
+          "title": "E - Encourage next steps",
+          "text": "End with specific, achievable next steps and confidence in the student's ability to succeed."
+        },
+        {
+          "type": "callout",
+          "style": "research",
+          "title": "Research shows",
+          "text": "Messages following the PACE structure receive 3x more positive responses and lead to better parent-teacher collaboration outcomes."
+        }
+      ]
+    },
+    {
+      "heading": "Template 1 - Behaviour update (neutral framing)",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Use when behaviour needs attention but isn't severe. Focus on partnership and problem-solving."
+        },
+        {
+          "type": "card",
+          "title": "Email version (150-200 words)",
+          "text": "Hi [Parent name],\n\n[Student name] has many strengths in our classroom, particularly [specific strength]. I wanted to touch base about [specific behaviour] that I've noticed [frequency/pattern].\n\nWhat I observed: [factual description without judgment]. This is important because [impact on learning/safety/others].\n\nI'd love to work together on this. At school, I'm [specific strategy you're using]. I'm wondering if you've noticed [similar behaviour] at home, and if so, what approaches work well for you?\n\nSome strategies that often help: [2-3 specific suggestions]. I'm confident that with consistency, [student name] will [positive expectation].\n\nI appreciate your partnership in supporting [student name]'s success. Please let me know if you'd like to chat further.\n\nBest regards,\n[Your name]"
+        },
+        {
+          "type": "card",
+          "title": "SMS version (under 75 words)",
+          "text": "Hi [Parent name], [Student name] is doing well with [strength]. I wanted to check in about [behaviour] I've noticed. Nothing major, but working together helps! I'm using [strategy] at school. Any thoughts on what works at home? Let's chat soon if helpful. Thanks for your support! - [Your name]"
+        },
+        {
+          "type": "callout",
+          "style": "tip",
+          "title": "Language that works",
+          "text": "Replace 'Your child is...' with 'I've noticed...' This shifts from character judgment to observation, reducing defensiveness."
+        }
+      ]
+    },
+    {
+      "heading": "Template 2 - Praise note (authentic celebration)",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Celebrate genuine achievements and growth. Specific praise is more meaningful than generic compliments."
+        },
+        {
+          "type": "card",
+          "title": "Email version",
+          "text": "Hi [Parent name],\n\nI had to share some wonderful news about [student name]! Today/This week, [specific situation and what student did].\n\nWhat impressed me most was [specific quality or action]. This shows [student name] is developing [skill/character trait], which is so important for [learning/relationships/growth].\n\n[Student name] should feel proud of [specific accomplishment]. This kind of [effort/kindness/persistence] makes such a difference in our classroom community.\n\nI know you're proud too - [student name] often talks about [family connection/support]. Thank you for raising such a [specific positive quality] child.\n\nI hope [student name] shares the good news with you tonight!\n\nWarmly,\n[Your name]"
+        },
+        {
+          "type": "card",
+          "title": "SMS version",
+          "text": "Great news! [Student name] [specific positive action] today. So proud of [specific quality shown]! Hope they share the good news with you. What a [positive trait] kid you're raising! - [Your name]"
+        },
+        {
+          "type": "callout",
+          "style": "timesaver",
+          "title": "Impact multiplier",
+          "text": "Praise notes take 2 minutes to write but create positive relationships that save hours of difficult conversations later."
+        }
+      ]
+    },
+    {
+      "heading": "Template 3 - Missing homework (supportive approach)",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Address missing work without shame or blame. Focus on understanding barriers and providing support."
+        },
+        {
+          "type": "card",
+          "title": "Email version",
+          "text": "Hi [Parent name],\n\n[Student name] is [positive classroom trait] and contributes well to our learning discussions. I'm reaching out because [homework pattern] and want to make sure everything is okay.\n\nMissing work: [specific assignments and dates]. I know homework can be challenging with busy family schedules!\n\nI'd like to understand if there are barriers I can help with. Some common solutions include: [2-3 practical options like modified assignments, different due dates, or homework help].\n\n[Student name] is capable of this work - [specific evidence of ability]. Let's find an approach that works for your family.\n\nWould a quick chat help? I'm available [times] or happy to discuss via email.\n\nThanks for partnering with me,\n[Your name]"
+        },
+        {
+          "type": "card",
+          "title": "SMS version",
+          "text": "Hi [Parent name], [Student name] is doing great in class! Checking in about missing homework - [brief pattern]. No worries, just want to help! Any barriers I should know about? Happy to chat about solutions. - [Your name]"
+        },
+        {
+          "type": "dodont",
+          "do": [
+            "Acknowledge family circumstances may vary",
+            "Offer specific solutions, not just expectations",
+            "Recognize the student's classroom strengths first",
+            "Frame as partnership, not judgment"
+          ],
+          "dont": [
+            "Use phrases like 'failing to complete' or 'lacking responsibility'",
+            "Compare to other students' homework habits",
+            "Assume parents aren't trying or don't care",
+            "Make homework completion a character issue"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Template 4 - Attendance concern (caring inquiry)",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Address attendance patterns with care and curiosity. Focus on supporting the whole family, not enforcement."
+        },
+        {
+          "type": "card",
+          "title": "Email version",
+          "text": "Hi [Parent name],\n\nI miss [student name] when they're not in class - they bring [specific positive quality] to our learning community. I've noticed [attendance pattern] and wanted to check in to see how we can best support your family.\n\nWhen [student name] is here, they [specific strengths]. I want to make sure they don't miss out on [current learning/upcoming events].\n\nI understand that attendance can be complicated by many factors. Is there anything the school can do to help? We have resources for [transportation, morning routines, health concerns] if any of those would be useful.\n\nI'd love to chat about how to make school attendance work better for your family. Would a phone call or meeting be helpful?\n\nWe're here to support [student name]'s success in every way we can.\n\nBest regards,\n[Your name]"
+        },
+        {
+          "type": "card",
+          "title": "SMS version",
+          "text": "Hi [Parent name], missing [student name] in class lately! They bring such [positive trait] to our learning. Everything okay? Happy to chat about any support that might help with attendance. We're here for your family! - [Your name]"
+        },
+        {
+          "type": "callout",
+          "style": "warn",
+          "title": "Sensitive approach required",
+          "text": "Attendance issues often involve complex family circumstances. Lead with support, not enforcement. Connect with school social worker if needed."
+        }
+      ]
+    },
+    {
+      "heading": "Template 5 - Academic progress celebration",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Celebrate learning growth, especially for students who struggle. Focus on effort and progress, not just achievement."
+        },
+        {
+          "type": "card",
+          "title": "Email version",
+          "text": "Hi [Parent name],\n\nI'm excited to share [student name]'s recent progress in [subject/area]! [Specific example of improvement or breakthrough].\n\nWhat makes this so meaningful is [context of previous challenges or the effort involved]. [Student name] has been [specific strategies or behaviours that led to success].\n\nThis progress shows [student name] is [developing skill/confidence/understanding]. I can see their confidence growing, especially when [specific situation].\n\nThe strategies that seem to help most are [2-3 specific approaches]. At home, you might notice [positive signs of growth].\n\nI'm so proud of [student name]'s persistence and growth mindset. Please celebrate this success together!\n\nWith excitement,\n[Your name]"
+        },
+        {
+          "type": "card",
+          "title": "SMS version",
+          "text": "Exciting news! [Student name] made real progress in [area] - [brief specific example]. Their hard work is paying off! So proud of their effort and growth. Hope you can celebrate together tonight! - [Your name]"
+        },
+        {
+          "type": "callout",
+          "style": "research",
+          "title": "Growth mindset impact",
+          "text": "Messages that celebrate effort and process (not just outcomes) increase student motivation and resilience by up to 40%."
+        }
+      ]
+    },
+    {
+      "heading": "Template 6 - General check-in (building relationships)",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Proactive relationship-building messages show you care about the whole child. Use periodically to strengthen partnerships."
+        },
+        {
+          "type": "card",
+          "title": "Email version",
+          "text": "Hi [Parent name],\n\nI hope your family is doing well! I wanted to take a moment to share some observations about [student name] and check in on how things are going.\n\nIn class, I've noticed [2-3 specific positive observations about academic, social, or emotional aspects]. [Student name] seems [overall mood/engagement assessment].\n\nI'm always interested in the parent perspective - how is [student name] feeling about school lately? Are there any areas where they feel confident or any concerns you've noticed?\n\nIf there's anything happening at home that might affect [student name] at school, I appreciate you sharing. It helps me support them better.\n\nI'm here if you have any questions or just want to chat about [student name]'s experience. Thank you for being such a supportive partner in their education.\n\nWarmly,\n[Your name]"
+        },
+        {
+          "type": "card",
+          "title": "SMS version",
+          "text": "Hi [Parent name], hope you're well! [Student name] is doing great - [brief positive]. How are they feeling about school? Always happy to chat if you have thoughts to share. Thanks for your support! - [Your name]"
+        }
+      ]
+    },
+    {
+      "heading": "Template 7 - Sensitive topics (non-diagnostic approach)",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Handle delicate situations with extra care. Stay within your professional scope and focus on collaboration."
+        },
+        {
+          "type": "card",
+          "title": "Email version - Emotional/social concern",
+          "text": "Hi [Parent name],\n\n[Student name] is such a valued member of our classroom, and I care about their wellbeing. I wanted to share some observations and see if you have any insights.\n\nRecently, I've noticed [specific, factual observations about behaviour, mood, or social interactions]. This is different from [student name]'s usual [pattern/demeanour].\n\nI'm not concerned about anything specific, just want to make sure [student name] feels supported. Sometimes changes in behaviour can reflect changes at home, new stresses, or just normal development.\n\nIs there anything you've noticed or anything I should be aware of that might help me support [student name] better at school?\n\nI'm here to help in whatever way I can. If you think it would be helpful, I can also connect you with [school counselor/social worker].\n\nThank you for trusting me with [student name]'s care.\n\nWith care,\n[Your name]"
+        },
+        {
+          "type": "callout",
+          "style": "warn",
+          "title": "Stay in your lane",
+          "text": "Never diagnose, suggest medical interventions, or make assumptions about home situations. Observe, report, support, and refer when appropriate."
+        }
+      ]
+    },
+    {
+      "heading": "Tone dials - Adjusting your message style",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The same message can sound completely different depending on tone. Use these dial adjustments to match your audience and situation."
+        },
+        {
+          "type": "card",
+          "title": "Supportive to Concerned",
+          "subtitle": "When escalating gentle concerns",
+          "text": "Supportive: 'I've noticed...and wanted to check in'\nConcerned: 'I need to discuss...and would appreciate your insights'\nUrgent: 'I'm reaching out because...and we should connect soon'"
+        },
+        {
+          "type": "card",
+          "title": "Concise to Detailed", 
+          "subtitle": "Matching family communication preferences",
+          "text": "Concise: 'Quick update: [student] did great with [specific]. Thanks for your support!'\nBalanced: 'Brief good news about [student]: [details]. Shows real growth in [area].'\nDetailed: 'I wanted to share the wonderful progress [student] is making: [full context, examples, implications]'"
+        },
+        {
+          "type": "card",
+          "title": "Friendly to Formal",
+          "subtitle": "Professional flexibility for different relationships",
+          "text": "Friendly: 'Hope you're having a great week! [Student] has been...'\nProfessional: 'I wanted to update you on [student]'s recent...'\nFormal: 'I am writing to inform you of [student]'s academic progress...'"
+        },
+        {
+          "type": "callout",
+          "style": "tip",
+          "title": "Reading the room",
+          "text": "Match the family's communication style. Formal families appreciate structure; casual families prefer warmth. When in doubt, start slightly more formal."
+        }
+      ]
+    },
+    {
+      "heading": "Multi-language considerations",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Working with multilingual families requires cultural sensitivity and clear communication strategies."
+        },
+        {
+          "type": "card",
+          "title": "Simple English adaptations",
+          "text": "Original: 'I wanted to circle back regarding the homework assignment completion patterns we discussed.'\nSimple: 'I want to talk about homework again. [Student] is missing some assignments.'\nKey changes: Shorter sentences, common words, direct statements."
+        },
+        {
+          "type": "card",
+          "title": "Cultural bridge phrases",
+          "text": "Before concerns: 'I respect that families have different approaches to...'\nOffering help: 'Please let me know if you need this information in [language] or if you'd like to meet with a translator.'\nShowing understanding: 'I know navigating school systems can be complex when languages are different.'"
+        },
+        {
+          "type": "callout",
+          "style": "warn",
+          "title": "Translation caution",
+          "text": "Automated translation can miss cultural nuances and create misunderstandings. When possible, use professional interpretation services for important conversations."
+        },
+        {
+          "type": "checklist",
+          "items": [
+            "Use simple, clear language even with English-speaking families",
+            "Avoid idioms and cultural references that may not translate",
+            "Offer translation services for important communications",
+            "Be patient with response time - families may need translation help",
+            "Check understanding rather than assuming it",
+            "Respect cultural differences in parent-teacher interactions"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Message compression techniques",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Transform long emails into effective SMS messages without losing important information."
+        },
+        {
+          "type": "card",
+          "title": "Email to SMS conversion",
+          "subtitle": "200+ word email becomes 75-word text",
+          "text": "Email: 'I hope this message finds you well. I wanted to reach out regarding Jamie's recent participation in our math lessons. Over the past week, I've observed that Jamie seems to be having some difficulty with the multiplication concepts we're covering. While Jamie is always attentive and asks good questions, I think some additional practice at home might be beneficial. I have some suggestions for ways you could support Jamie's learning...'\n\nSMS: 'Hi! Jamie is great in math class - asks good questions! Multiplication is tricky right now. Some home practice might help. I have easy ideas to share. Quick chat this week? Thanks! - Ms. Smith'"
+        },
+        {
+          "type": "dodont",
+          "do": [
+            "Keep the positive opening",
+            "State the main point clearly", 
+            "Offer specific next steps",
+            "Maintain warm tone"
+          ],
+          "dont": [
+            "Include every detail from the email",
+            "Use complex sentences",
+            "Assume context will be understood",
+            "Skip the positive elements"
+          ]
+        },
+        {
+          "type": "callout",
+          "style": "timesaver",
+          "title": "Quick compression formula",
+          "text": "Positive + Main point + Next step + Thanks = Effective SMS. Most messages can fit this pattern in under 75 words."
+        }
+      ]
+    }
+  ],
+  "tearsheet": {
+    "heading": "6 Fastest Templates",
+    "bullets": [
+      "Positive update: '[Student] showed [specific strength] today. So proud of [action]. Please celebrate with them tonight!'",
+      "Gentle concern: '[Student] is great at [strength]. Quick check-in needed about [issue]. Working together helps! When works for a chat?'",
+      "Missing work: '[Student] contributes well to class. Some missing homework - any barriers I can help with? Let's find solutions that work!'",
+      "Praise note: 'Had to share! [Student] [specific action] today. Shows real [quality]. What a [positive trait] kid you're raising!'",
+      "General check-in: '[Student] is doing well! How are they feeling about school? Always happy to chat about their experience.'",
+      "Academic progress: 'Exciting news! [Student] made progress in [area]. Their hard work is showing. So proud of their effort!'"
+    ]
+  }
+}

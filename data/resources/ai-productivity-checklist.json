@@ -1,0 +1,501 @@
+{
+  "title": "AI Productivity Transformation Checklist",
+  "subtitle": "A 30-day, low-risk plan to reclaim your time with AI tools - safely and strategically",
+  "version": "1.0",
+  "sections": [
+    {
+      "heading": "How to use this checklist",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Start small, think big. This 30-day plan introduces AI tools gradually, building confidence through quick wins before tackling bigger challenges. Each week builds on the last, creating sustainable habits."
+        },
+        {
+          "type": "callout",
+          "style": "timesaver",
+          "title": "Quick start",
+          "text": "Jump to Week 1, Day 1. Complete just one task. Experience the time-saving immediately, then decide if you want to continue with the full program."
+        },
+        {
+          "type": "paragraph",
+          "text": "This checklist works for any teacher, regardless of tech comfort level. No special software required - just access to free AI assistants like ChatGPT, Claude, or Microsoft Copilot."
+        }
+      ]
+    },
+    {
+      "heading": "30-day roadmap overview",
+      "blocks": [
+        {
+          "type": "step",
+          "n": 1,
+          "title": "Week 1 - Baseline & Quick Wins",
+          "text": "Document current pain points, try 3 simple AI tasks, establish safety habits. Goal: Save 2-3 hours this week with basic prompts."
+        },
+        {
+          "type": "step",
+          "n": 2,
+          "title": "Week 2 - Communication Workflows", 
+          "text": "Master parent emails, feedback writing, and message polishing. Goal: Cut communication time by 50% while improving quality."
+        },
+        {
+          "type": "step",
+          "n": 3,
+          "title": "Week 3 - Lesson Planning Systems",
+          "text": "Streamline lesson prep, resource creation, and differentiation. Goal: Reduce Sunday planning sessions from 3 hours to 1 hour."
+        },
+        {
+          "type": "step",
+          "n": 4,
+          "title": "Week 4 - Integration & Scale-Up",
+          "text": "Combine multiple workflows, track results, plan continued growth. Goal: Establish sustainable AI-enhanced teaching practice."
+        },
+        {
+          "type": "callout",
+          "style": "research",
+          "title": "Research shows",
+          "text": "Teachers who adopt AI gradually (versus all-at-once) report 3x higher satisfaction rates and sustained usage after 6 months."
+        }
+      ]
+    },
+    {
+      "heading": "Baseline - Current pain inventory",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Before starting, capture your current reality. This baseline helps you measure progress and celebrate wins along the way."
+        },
+        {
+          "type": "checklist",
+          "items": [
+            "List 3 tasks you dread doing on Sunday evenings",
+            "Note how long you spend on email each day (estimate)",
+            "Identify your biggest time-waster during the week",
+            "Record how many hours you work beyond contracted time",
+            "Write down one task that makes you feel rushed or stressed",
+            "Note which admin tasks prevent you from focusing on teaching",
+            "Identify where you feel you're 'reinventing the wheel' regularly"
+          ]
+        },
+        {
+          "type": "callout",
+          "style": "tip",
+          "title": "Measurement matters",
+          "text": "Take a photo of your completed baseline checklist. You'll be amazed at the progress when you review it in 30 days."
+        }
+      ]
+    },
+    {
+      "heading": "Week 1 - Foundation building",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Start with simple, safe wins that build confidence. Focus on non-sensitive tasks that give immediate time savings."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Day 1-2: First AI interaction"
+        },
+        {
+          "type": "checklist",
+          "items": [
+            "Choose your AI tool (ChatGPT, Claude, or Copilot)",
+            "Try this prompt: 'Write 5 different ways to say \"please hand in your homework\" that sound encouraging, not demanding'",
+            "Review the output - does it sound like you?",
+            "Pick one phrase to use this week",
+            "Note how long this took versus writing from scratch"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Day 3-4: Email improvement"
+        },
+        {
+          "type": "checklist",
+          "items": [
+            "Find a recent email you sent that felt awkward or rushed",
+            "Try: 'Rewrite this email to sound more professional and warm: [paste email]'",
+            "Compare the versions - what improved?",
+            "Use AI to draft one new email this week",
+            "Always read and personalise before sending"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Day 5-7: Quick resource creation"
+        },
+        {
+          "type": "checklist",
+          "items": [
+            "Try: 'Create 5 warm-up questions for [your subject] that get students thinking about [topic]'",
+            "Use the questions with your class",
+            "Note student engagement compared to your usual starters",
+            "Create a simple template for future warm-up generation",
+            "Save successful prompts in a document for reuse"
+          ]
+        },
+        {
+          "type": "callout",
+          "style": "timesaver",
+          "title": "Week 1 time saved",
+          "text": "Target: 2-3 hours saved through quick email drafts, faster resource creation, and reduced decision fatigue on routine tasks."
+        }
+      ]
+    },
+    {
+      "heading": "Week 2 - Communication mastery",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Transform your parent communication, feedback writing, and daily messages. This week focuses on relationship-building through better communication."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Day 8-10: Parent communication system"
+        },
+        {
+          "type": "checklist",
+          "items": [
+            "Create templates for common parent messages (positive news, minor concerns, general updates)",
+            "Test one template with a real situation this week",
+            "Ask a colleague to review your AI-assisted draft",
+            "Refine your prompt based on feedback",
+            "Create a 'communication prompt library' document"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Day 11-12: Feedback transformation"
+        },
+        {
+          "type": "checklist",
+          "items": [
+            "Try: 'Write encouraging feedback for a student who [describe situation]. Focus on effort and next steps, avoid generic praise'",
+            "Use AI to help with report card comments (remove identifying details first)",
+            "Test different tone requests (warm, encouraging, professional)",
+            "Create feedback templates for common scenarios",
+            "Practice the 2-minute quality check before sending"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Day 13-14: Message polishing workflow"
+        },
+        {
+          "type": "checklist",
+          "items": [
+            "Establish routine: Draft → AI polish → Personal review → Send",
+            "Try message compression: 'Make this email more concise but keep the warm tone: [message]'",
+            "Practice tone adjustment: 'Make this sound less formal but still professional'",
+            "Create your personal style guide for consistent AI output",
+            "Track how this workflow affects your daily email time"
+          ]
+        },
+        {
+          "type": "callout",
+          "style": "warn",
+          "title": "Privacy checkpoint",
+          "text": "Never include student names, family details, or sensitive information in AI prompts. Use 'the student' or initials only."
+        }
+      ]
+    },
+    {
+      "heading": "Week 3 - Lesson planning efficiency",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Revolutionise your planning process. This week introduces systematic approaches to lesson design, resource creation, and differentiation."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Day 15-17: Lesson structure templates"
+        },
+        {
+          "type": "checklist",
+          "items": [
+            "Create a lesson planning prompt template for your subject",
+            "Test: 'Plan a 45-minute lesson on [topic] for [grade]. Include starter, main activity, plenary, and differentiation'",
+            "Refine the prompt based on what's missing or unhelpful",
+            "Use AI to generate activity variations for different learning styles",
+            "Build a library of successful lesson prompts"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Day 18-19: Resource creation system"
+        },
+        {
+          "type": "checklist",
+          "items": [
+            "Try: 'Create 10 practice questions for [topic], ranging from basic recall to application'",
+            "Generate worksheet alternatives: 'Design 3 ways students can show understanding of [concept] without a worksheet'",
+            "Use AI for differentiation: 'Adapt this activity for students who need more support/challenge'",
+            "Create resource prompt templates for different subjects",
+            "Test generated resources with students and refine prompts"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Day 20-21: Assessment and review"
+        },
+        {
+          "type": "checklist",
+          "items": [
+            "Generate quiz questions: 'Create 5 questions that test understanding of [concept], not just memorization'",
+            "Try peer assessment prompts: 'Create a simple framework for students to give helpful feedback on [activity]'",
+            "Use AI for review session planning: 'Plan an engaging 20-minute review of [unit] that identifies gaps'",
+            "Create exit ticket variations using AI suggestions",
+            "Develop assessment prompt templates for regular use"
+          ]
+        },
+        {
+          "type": "callout",
+          "style": "timesaver",
+          "title": "Sunday planning transformation",
+          "text": "Target: Reduce weekend planning from 3+ hours to under 1 hour by using AI for initial drafts and idea generation."
+        }
+      ]
+    },
+    {
+      "heading": "Week 4 - Integration and scaling",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Combine your new skills into powerful workflows. This week focuses on sustainability and measuring your transformation."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Day 22-24: Workflow integration"
+        },
+        {
+          "type": "checklist",
+          "items": [
+            "Combine lesson planning + communication: Generate parent update about what students learned",
+            "Link assessment + feedback: Use quiz results to personalise student comments",
+            "Create weekly planning routine incorporating AI at each step",
+            "Develop troubleshooting strategies for when AI output isn't quite right",
+            "Practice rapid iteration: prompt → review → refine → use"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Day 25-26: Quality systems"
+        },
+        {
+          "type": "checklist",
+          "items": [
+            "Establish quality checks for different types of AI output",
+            "Create review checklists for emails, lessons, and feedback",
+            "Practice identifying when AI suggestions don't match your teaching style",
+            "Develop backup plans for when AI tools aren't available",
+            "Share successful prompts with colleagues (with school permission)"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Day 27-30: Results tracking and future planning"
+        },
+        {
+          "type": "checklist",
+          "items": [
+            "Complete the metrics assessment (see next section)",
+            "Compare current reality with Week 1 baseline",
+            "Identify your top 3 AI applications that save the most time",
+            "Plan next month's AI learning goals",
+            "Create sustainability plan for maintaining these habits"
+          ]
+        },
+        {
+          "type": "callout",
+          "style": "research",
+          "title": "Success indicator",
+          "text": "If you're saving 5+ hours per week and feeling more confident about AI assistance, you've successfully transformed your productivity."
+        }
+      ]
+    },
+    {
+      "heading": "Safety & policy mini-brief",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Smart AI use requires understanding the risks and working within appropriate boundaries. This brief covers essential safety practices."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Privacy protection"
+        },
+        {
+          "type": "dodont",
+          "do": [
+            "Remove all student names before using AI",
+            "Use general descriptions like 'a student' or 'the class'",
+            "Check your school's AI policy before starting",
+            "Keep sensitive conversations offline"
+          ],
+          "dont": [
+            "Share student work samples with identifying information",
+            "Include family details or personal circumstances",
+            "Use AI for confidential or legal communications",
+            "Assume AI conversations are private"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Quality and bias awareness"
+        },
+        {
+          "type": "checklist",
+          "items": [
+            "Always review AI output before using it",
+            "Check for cultural bias in language and examples",
+            "Verify factual information from reliable sources",
+            "Ensure suggestions align with your teaching philosophy",
+            "Test AI-generated activities before using with students",
+            "Be transparent with colleagues about AI assistance when appropriate"
+          ]
+        },
+        {
+          "type": "callout",
+          "style": "warn",
+          "title": "Red-flag phrases to avoid",
+          "text": "Never use AI suggestions that include: diagnostic language about students, promises about outcomes, legal or medical advice, or content that feels discriminatory."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Professional boundaries"
+        },
+        {
+          "type": "paragraph",
+          "text": "AI is a tool to enhance your professional judgment, not replace it. Your expertise, relationships, and contextual knowledge remain irreplaceable."
+        }
+      ]
+    },
+    {
+      "heading": "Metrics dashboard",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Track your progress with these simple measurements. Complete this assessment at the end of Week 4 to see your transformation."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Time saved tracking"
+        },
+        {
+          "type": "checklist",
+          "items": [
+            "Hours saved on lesson planning per week: ___",
+            "Minutes saved on daily emails: ___", 
+            "Time saved on report writing/feedback: ___",
+            "Reduction in Sunday evening work: ___",
+            "Total weekly time savings: ___"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Quality improvements"
+        },
+        {
+          "type": "checklist",
+          "items": [
+            "Parent responses are more positive (Yes/No/Same)",
+            "Student feedback is more specific and helpful (Y/N/S)",
+            "Lessons feel more engaging (Y/N/S)",
+            "Communication feels more professional (Y/N/S)",
+            "Planning feels more creative (Y/N/S)"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Confidence and satisfaction"
+        },
+        {
+          "type": "checklist",
+          "items": [
+            "Rate your confidence using AI tools (1-10): ___",
+            "Rate your satisfaction with AI assistance (1-10): ___", 
+            "Rate likelihood you'll continue using AI (1-10): ___",
+            "Rate your overall work-life balance improvement (1-10): ___"
+          ]
+        },
+        {
+          "type": "callout",
+          "style": "timesaver",
+          "title": "Sunday reclaimed hours",
+          "text": "The ultimate success metric: How many hours did you reclaim for yourself on Sunday evenings? This is time for family, hobbies, and rest."
+        }
+      ]
+    },
+    {
+      "heading": "30-60-90 extension plan",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Your AI transformation doesn't stop at 30 days. Here's how to continue growing your skills and efficiency over the coming months."
+        },
+        {
+          "type": "step",
+          "n": 1,
+          "title": "Days 31-60: Advanced applications",
+          "text": "Explore subject-specific AI tools, collaborate with colleagues, experiment with multimedia content creation, develop school-wide templates."
+        },
+        {
+          "type": "step",
+          "n": 2,
+          "title": "Days 61-90: Leadership and sharing",
+          "text": "Mentor other teachers, contribute to school AI policy development, create resource libraries, present your results to leadership."
+        },
+        {
+          "type": "step",
+          "n": 3,
+          "title": "Beyond 90 days: Innovation",
+          "text": "Pilot new AI tools, develop school-specific solutions, lead professional development sessions, contribute to educational AI communities."
+        },
+        {
+          "type": "callout",
+          "style": "research",
+          "title": "Long-term impact",
+          "text": "Teachers who successfully adopt AI report: 25% reduction in administrative time, improved job satisfaction, and more energy for creative teaching."
+        },
+        {
+          "type": "paragraph",
+          "text": "Remember: The goal isn't to become dependent on AI, but to use it strategically to reclaim time for what matters most - teaching, connecting with students, and maintaining your wellbeing."
+        }
+      ]
+    }
+  ],
+  "tearsheet": {
+    "heading": "Daily AI Checklist",
+    "bullets": [
+      "Remove student names/identifying details before using AI",
+      "Draft → AI assist → Review → Personalise → Send/Use",
+      "Keep sentences short and specific in prompts",
+      "Always check output matches your teaching style",
+      "Save successful prompts for future use",
+      "Track time saved to celebrate progress",
+      "Use AI for initial drafts, never final decisions",
+      "When stuck, try: 'Make this more...' or 'Help me improve...'",
+      "Focus on non-sensitive tasks first",
+      "Quality check: Does this sound like me?",
+      "Remember: You're the professional, AI is the assistant",
+      "Celebrate small wins - they add up to big changes"
+    ]
+  }
+}

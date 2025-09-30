@@ -1,0 +1,171 @@
+{
+  "navigation": {
+    "logo": {
+      "text": "Zaza Technologies",
+      "href": "/"
+    },
+    "megaMenu": {
+      "products": {
+        "label": "Products",
+        "sections": [
+          {
+            "title": "Teacher Suite",
+            "description": "AI tools for educators",
+            "href": "/products/teachers",
+            "apps": [
+              {
+                "name": "Teach",
+                "description": "Comprehensive lesson planning",
+                "href": "/products/teachers/teach",
+                "icon": "BookOpen"
+              },
+              {
+                "name": "Promptly",
+                "description": "AI student feedback",
+                "href": "/products/teachers/promptly",
+                "icon": "MessageSquare"
+              },
+              {
+                "name": "AutoPlanner",
+                "description": "Automated lesson planning",
+                "href": "/products/teachers/autoplanner",
+                "icon": "Calendar"
+              },
+              {
+                "name": "Inbox",
+                "description": "Communication hub",
+                "href": "/products/teachers/inbox",
+                "icon": "Mail"
+              }
+            ]
+          },
+          {
+            "title": "Close Suite",
+            "description": "Professional communication tools",
+            "href": "/products/close",
+            "apps": [
+              {
+                "name": "Close Agent",
+                "description": "AI communication assistant",
+                "href": "/products/close/agent",
+                "icon": "Bot"
+              },
+              {
+                "name": "Close Inbox",
+                "description": "Professional email management",
+                "href": "/products/close/inbox",
+                "icon": "Inbox"
+              },
+              {
+                "name": "Close Extension",
+                "description": "Browser productivity tool",
+                "href": "/products/close/extension",
+                "icon": "Puzzle"
+              }
+            ]
+          },
+          {
+            "title": "All Products",
+            "href": "/products",
+            "featured": [
+              {
+                "name": "Teacher Suite",
+                "description": "Complete AI toolkit for educators",
+                "href": "/products/teachers"
+              },
+              {
+                "name": "Close Suite",
+                "description": "Professional communication tools",
+                "href": "/products/close"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "mainNav": [
+      {
+        "label": "Products",
+        "href": "/products",
+        "megaMenu": true
+      },
+      {
+        "label": "Solutions",
+        "href": "/solutions"
+      },
+      {
+        "label": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "label": "Resources",
+        "href": "/resources",
+        "dropdown": [
+          {
+            "label": "Blog",
+            "href": "/resources/blog"
+          },
+          {
+            "label": "Case Studies",
+            "href": "/resources/case-studies"
+          },
+          {
+            "label": "Documentation",
+            "href": "/resources/docs"
+          }
+        ]
+      },
+      {
+        "label": "Company",
+        "href": "/company",
+        "dropdown": [
+          {
+            "label": "About",
+            "href": "/company/about"
+          },
+          {
+            "label": "Security",
+            "href": "/company/security"
+          },
+          {
+            "label": "Support",
+            "href": "/company/support"
+          },
+          {
+            "label": "Privacy",
+            "href": "/company/privacy"
+          }
+        ]
+      }
+    ],
+    "ctas": [
+      {
+        "label": "Try Teacher Suite",
+        "href": "/products/teachers",
+        "variant": "outline"
+      },
+      {
+        "label": "Try Close Suite",
+        "href": "/products/close",
+        "variant": "primary"
+      }
+    ],
+    "search": {
+      "placeholder": "Search products, solutions, help..."
+    },
+    "topBar": {
+      "enabled": true,
+      "message": "New: AutoPlanner and Close Extension now available",
+      "links": [
+        {
+          "label": "Teacher Suite",
+          "href": "/products/teachers"
+        },
+        {
+          "label": "Close Suite",
+          "href": "/products/close"
+        }
+      ]
+    }
+  }
+}

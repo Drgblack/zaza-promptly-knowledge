@@ -1,0 +1,365 @@
+{
+  "teacherSuite": {
+    "name": "Teacher Suite",
+    "description": "AI tools designed specifically for educators",
+    "href": "/products/teachers",
+    "apps": [
+      {
+        "id": "teach",
+        "name": "Teach",
+        "shortDescription": "Comprehensive lesson planning tool",
+        "description": "Create engaging lesson plans, manage curriculum standards, and track student progress with AI-powered assistance.",
+        "hero": {
+          "headline": "Plan Better Lessons in Half the Time",
+          "subheading": "Teach uses AI to help you create comprehensive lesson plans, align with curriculum standards, and track student progress effortlessly.",
+          "cta": "Start Free Trial"
+        },
+        "outcomes": [
+          "Save 5+ hours per week on lesson planning",
+          "Automatically align with curriculum standards",
+          "Generate differentiated activities for all learners",
+          "Track student progress and outcomes"
+        ],
+        "features": [
+          {
+            "name": "AI Lesson Generator",
+            "description": "Generate complete lesson plans with objectives, activities, and assessments"
+          },
+          {
+            "name": "Standards Alignment",
+            "description": "Automatically align lessons with state and national curriculum standards"
+          },
+          {
+            "name": "Differentiation Tools",
+            "description": "Create activities for different learning styles and abilities"
+          },
+          {
+            "name": "Progress Tracking",
+            "description": "Monitor student understanding and adjust instruction accordingly"
+          }
+        ],
+        "pricing": {
+          "free": true,
+          "plans": [
+            {
+              "name": "Free",
+              "price": "$0",
+              "features": ["5 lesson plans per month", "Basic templates", "Community support"]
+            },
+            {
+              "name": "Pro",
+              "price": "$19/month",
+              "features": ["Unlimited lesson plans", "Advanced AI features", "Standards alignment", "Priority support"]
+            }
+          ]
+        }
+      },
+      {
+        "id": "promptly",
+        "name": "Promptly",
+        "shortDescription": "AI student feedback generator",
+        "description": "Generate personalized, professional feedback for students and parents in seconds, not hours.",
+        "hero": {
+          "headline": "Write Student Comments in Seconds",
+          "subheading": "Promptly generates personalized, professional feedback for report cards and parent communications using AI.",
+          "cta": "Try Free for 7 Days"
+        },
+        "outcomes": [
+          "Reduce comment writing time by 90%",
+          "Generate personalized feedback for each student",
+          "Maintain consistent professional tone",
+          "Never miss a deadline again"
+        ],
+        "features": [
+          {
+            "name": "Smart Comment Generation",
+            "description": "AI generates personalized comments based on student performance data"
+          },
+          {
+            "name": "Tone Customization",
+            "description": "Adjust feedback tone to match your voice and school guidelines"
+          },
+          {
+            "name": "Multi-language Support",
+            "description": "Generate comments in multiple languages for diverse families"
+          },
+          {
+            "name": "Report Card Integration",
+            "description": "Export directly to popular grading systems"
+          }
+        ],
+        "pricing": {
+          "free": true,
+          "plans": [
+            {
+              "name": "Free Trial",
+              "price": "$0",
+              "duration": "7 days",
+              "features": ["Unlimited comments", "All features included", "No credit card required"]
+            },
+            {
+              "name": "Professional",
+              "price": "$14.99/month",
+              "features": ["Unlimited students", "Custom tone settings", "Multi-language support", "Priority support"]
+            }
+          ]
+        }
+      },
+      {
+        "id": "autoplanner",
+        "name": "AutoPlanner",
+        "shortDescription": "Automated lesson planning",
+        "description": "Automatically generate detailed lesson plans, activities, and assessments based on your curriculum and student needs.",
+        "hero": {
+          "headline": "Lesson Planning on Autopilot",
+          "subheading": "AutoPlanner creates detailed lesson plans automatically, complete with activities, assessments, and differentiation strategies.",
+          "cta": "Get Early Access"
+        },
+        "outcomes": [
+          "Generate full lesson plans in minutes",
+          "Automatically include differentiation strategies",
+          "Create aligned assessments and activities",
+          "Maintain consistency across your curriculum"
+        ],
+        "features": [
+          {
+            "name": "Automatic Plan Generation",
+            "description": "Generate complete lesson plans based on learning objectives and student data"
+          },
+          {
+            "name": "Smart Differentiation",
+            "description": "Automatically include modifications for different learning needs"
+          },
+          {
+            "name": "Assessment Integration",
+            "description": "Generate formative and summative assessments aligned to objectives"
+          },
+          {
+            "name": "Curriculum Mapping",
+            "description": "Ensure all standards are covered across the school year"
+          }
+        ],
+        "status": "coming-soon",
+        "pricing": {
+          "earlyAccess": true,
+          "plans": [
+            {
+              "name": "Early Access",
+              "price": "Free",
+              "features": ["Beta access", "Unlimited lesson plans", "Community support", "Feedback program"]
+            }
+          ]
+        }
+      },
+      {
+        "id": "inbox",
+        "name": "Inbox",
+        "shortDescription": "Teacher communication hub",
+        "description": "Streamline all your school communications in one place. Manage emails, messages, and parent communications efficiently.",
+        "hero": {
+          "headline": "One Inbox for All School Communications",
+          "subheading": "Manage emails, parent messages, and school communications in one unified, AI-powered inbox.",
+          "cta": "Join Waitlist"
+        },
+        "outcomes": [
+          "Reduce email overwhelm by 80%",
+          "Respond to parents 3x faster",
+          "Never miss important messages",
+          "Maintain professional communication standards"
+        ],
+        "features": [
+          {
+            "name": "Unified Inbox",
+            "description": "All school emails, messages, and communications in one place"
+          },
+          {
+            "name": "Smart Prioritization",
+            "description": "AI identifies and highlights urgent messages automatically"
+          },
+          {
+            "name": "Quick Responses",
+            "description": "Generate professional responses with one click"
+          },
+          {
+            "name": "Parent Portal Integration",
+            "description": "Connect with school communication systems seamlessly"
+          }
+        ],
+        "status": "waitlist",
+        "pricing": {
+          "waitlist": true,
+          "plans": [
+            {
+              "name": "Early Access",
+              "price": "Free",
+              "features": ["Beta access", "Unlimited messages", "Priority support", "Feature requests"]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "closeSuite": {
+    "name": "Close Suite",
+    "description": "Professional communication tools for business success",
+    "href": "/products/close",
+    "apps": [
+      {
+        "id": "agent",
+        "name": "Close Agent",
+        "shortDescription": "AI communication assistant",
+        "description": "Your personal AI assistant for professional communications, client follow-ups, and relationship management.",
+        "hero": {
+          "headline": "Never Miss a Follow-up Again",
+          "subheading": "Close Agent helps you maintain professional relationships with AI-powered communication assistance and smart follow-up reminders.",
+          "cta": "Start Free Trial"
+        },
+        "outcomes": [
+          "Increase client response rates by 40%",
+          "Never miss a follow-up opportunity",
+          "Maintain consistent professional communication",
+          "Save 2+ hours daily on email management"
+        ],
+        "features": [
+          {
+            "name": "Smart Follow-ups",
+            "description": "AI suggests optimal timing and content for client follow-ups"
+          },
+          {
+            "name": "Communication Templates",
+            "description": "Professional templates for common business scenarios"
+          },
+          {
+            "name": "Relationship Tracking",
+            "description": "Track interaction history and relationship health"
+          },
+          {
+            "name": "Calendar Integration",
+            "description": "Seamlessly integrate with your existing calendar and CRM"
+          }
+        ],
+        "pricing": {
+          "free": true,
+          "plans": [
+            {
+              "name": "Starter",
+              "price": "$29/month",
+              "features": ["Up to 100 contacts", "Basic templates", "Email tracking", "Calendar integration"]
+            },
+            {
+              "name": "Professional",
+              "price": "$79/month",
+              "features": ["Unlimited contacts", "Advanced AI features", "CRM integration", "Priority support"]
+            }
+          ]
+        }
+      },
+      {
+        "id": "close-inbox",
+        "name": "Close Inbox",
+        "shortDescription": "Professional email management",
+        "description": "Transform your inbox into a powerful client communication system with AI-powered organization and response assistance.",
+        "hero": {
+          "headline": "Master Your Professional Inbox",
+          "subheading": "Close Inbox uses AI to organize, prioritize, and help you respond to professional emails efficiently.",
+          "cta": "Try Free for 14 Days"
+        },
+        "outcomes": [
+          "Process emails 50% faster",
+          "Achieve inbox zero consistently",
+          "Improve response quality and consistency",
+          "Reduce email stress and overwhelm"
+        ],
+        "features": [
+          {
+            "name": "Smart Categorization",
+            "description": "Automatically sort emails by importance and type"
+          },
+          {
+            "name": "AI Response Assistant",
+            "description": "Generate professional responses with context awareness"
+          },
+          {
+            "name": "Priority Detection",
+            "description": "Identify urgent emails and client communications automatically"
+          },
+          {
+            "name": "Follow-up Reminders",
+            "description": "Never let important conversations fall through the cracks"
+          }
+        ],
+        "pricing": {
+          "free": true,
+          "plans": [
+            {
+              "name": "Free Trial",
+              "price": "$0",
+              "duration": "14 days",
+              "features": ["Full feature access", "Up to 2 email accounts", "No credit card required"]
+            },
+            {
+              "name": "Business",
+              "price": "$39/month",
+              "features": ["Unlimited email accounts", "Advanced AI features", "Team collaboration", "Priority support"]
+            }
+          ]
+        }
+      },
+      {
+        "id": "extension",
+        "name": "Close Extension",
+        "shortDescription": "Browser productivity tool",
+        "description": "Browser extension that helps you capture leads, manage contacts, and streamline your workflow across all web platforms.",
+        "hero": {
+          "headline": "Capture Every Opportunity",
+          "subheading": "Close Extension turns any webpage into a lead generation and client management opportunity with one-click contact capture.",
+          "cta": "Install Extension"
+        },
+        "outcomes": [
+          "Capture 3x more leads from web browsing",
+          "Reduce data entry time by 80%",
+          "Never lose contact information again",
+          "Streamline your prospecting workflow"
+        ],
+        "features": [
+          {
+            "name": "One-Click Contact Capture",
+            "description": "Extract contact information from any webpage instantly"
+          },
+          {
+            "name": "LinkedIn Integration",
+            "description": "Seamlessly capture and organize LinkedIn connections"
+          },
+          {
+            "name": "CRM Sync",
+            "description": "Automatically sync captured contacts to your CRM system"
+          },
+          {
+            "name": "Lead Scoring",
+            "description": "AI-powered lead qualification and scoring"
+          }
+        ],
+        "installation": {
+          "chrome": "https://chrome.google.com/webstore/detail/close-extension",
+          "firefox": "https://addons.mozilla.org/firefox/addon/close-extension",
+          "safari": "https://apps.apple.com/app/close-extension"
+        },
+        "pricing": {
+          "free": true,
+          "plans": [
+            {
+              "name": "Free",
+              "price": "$0",
+              "features": ["50 captures per month", "Basic contact management", "Chrome extension"]
+            },
+            {
+              "name": "Pro",
+              "price": "$19/month",
+              "features": ["Unlimited captures", "All browsers", "CRM integration", "Lead scoring", "Priority support"]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

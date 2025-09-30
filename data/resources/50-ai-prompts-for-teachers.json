@@ -1,0 +1,433 @@
+{
+  "title": "50 AI Prompts for Teachers",
+  "subtitle": "Ready-to-use prompts that save 10+ hours per week on lesson planning, grading, and parent communication",
+  "version": "1.0",
+  "sections": [
+    {
+      "heading": "How to use this pack",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Keep it simple. Copy any prompt, add your specific details, and paste into your preferred AI assistant (ChatGPT, Claude, Copilot, etc.). Each prompt includes safety guardrails and follows teacher-tested patterns."
+        },
+        {
+          "type": "callout",
+          "style": "timesaver",
+          "title": "2-minute start",
+          "text": "Pick one prompt from Parent Communication (page 4). Try it with a real scenario. See the difference quality prompting makes."
+        },
+        {
+          "type": "paragraph",
+          "text": "All prompts follow the PASTE framework: Purpose-Audience-Scope-Tone-Evidence. This ensures consistent, professional results every time."
+        }
+      ]
+    },
+    {
+      "heading": "Prompt hygiene - Essential safety rules",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Before using any AI prompt in teaching, follow these non-negotiable safety practices:"
+        },
+        {
+          "type": "checklist",
+          "items": [
+            "Never paste student names - use initials or 'the student'",
+            "Remove any identifying details (school, location, family info)",
+            "Always review AI output before sending or sharing",
+            "Keep sensitive conversations offline (behavioural concerns, family issues)",
+            "Check your school's AI policy before using these prompts"
+          ]
+        },
+        {
+          "type": "callout",
+          "style": "warn",
+          "title": "Privacy first",
+          "text": "AI assistants learn from your inputs. Never share confidential student information, assessment data, or private family details."
+        }
+      ]
+    },
+    {
+      "heading": "Parent communication prompts",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Transform awkward parent conversations into clear, supportive messages. Each prompt includes email and SMS variants."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #1: Positive behaviour update",
+          "text": "Write a brief, warm message to [student's parent/guardian] about [specific positive behaviour]. The message should: highlight the exact behaviour, explain why it matters for learning, keep it under 100 words, use an encouraging but not over-the-top tone. Context: [brief situation]. Format as [email/SMS]."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #2: Missing homework follow-up",
+          "text": "Draft a non-judgmental message to [student's parent/guardian] about incomplete homework. The message should: state the facts clearly, offer support rather than blame, suggest one practical next step, maintain a collaborative tone. Missing work: [assignment details]. Keep under 75 words for SMS, 150 for email."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #3: Attendance concern",
+          "text": "Create a caring message to [parent/guardian] about attendance patterns. Focus on: recent absence pattern without listing specific dates, how it impacts learning, offering support, requesting a brief conversation. Pattern: [brief description]. Tone: concerned but supportive. Format: [email/SMS]."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #4: Academic progress celebration",
+          "text": "Write an uplifting message celebrating [student's] academic improvement. Include: specific area of growth, what the student did differently, how this helps their learning, brief encouragement for continued progress. Progress: [specific details]. Keep tone genuine, not overly effusive."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #5: General check-in",
+          "text": "Draft a warm check-in message to [parent/guardian] about [student's] overall wellbeing. Touch on: recent observations about mood/engagement, any small concerns or positives, invitation for parent input, offer of support. Observations: [brief notes]. Tone: caring, open, non-alarming."
+        },
+        {
+          "type": "callout",
+          "style": "tip",
+          "title": "Message timing",
+          "text": "Send positive messages immediately. For concerns, wait 24 hours after drafting to review with fresh eyes."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #6: Event invitation",
+          "text": "Create an engaging invitation for [school event]. Include: event purpose and benefits, key logistics (date, time, location), what to expect, simple RSVP method, warm closing. Event: [details]. Tone: welcoming and informative."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #7: Classroom volunteer request",
+          "text": "Write a friendly request for parent volunteers. Specify: activity requiring help, time commitment, no special skills needed, how it benefits students, easy sign-up process. Activity: [details]. Emphasize that any amount of help is appreciated."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #8: End-of-term wrap-up",
+          "text": "Compose a reflective end-of-term message highlighting [student's] growth. Include: 2-3 specific improvements, challenges they overcame, strengths to build on next term, appreciation for parent support. Growth areas: [specific examples]."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #9: Quick daily update",
+          "text": "Create a brief daily update for [parent/guardian] about [student's] day. Mention: one positive moment, learning highlight, any minor notes, tomorrow's focus. Today's highlights: [brief notes]. Keep under 50 words."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #10: Resource sharing",
+          "text": "Share a helpful learning resource with [parent/guardian]. Explain: why this resource suits [student], how to use it at home, expected time commitment, offer to discuss further. Resource: [name and brief description]. Tone: helpful, not prescriptive."
+        }
+      ]
+    },
+    {
+      "heading": "Lesson planning & differentiation prompts",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Cut lesson prep time in half with these structured planning prompts. Perfect for new concepts, review sessions, and differentiated instruction."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #11: Lesson plan scaffold",
+          "text": "Create a 45-minute lesson plan for [subject] on [topic]. Include: clear learning objective, 3-part structure (intro/main/plenary), differentiation for 3 ability levels, 2 formative assessment checkpoints, required resources. Grade level: [X]. Class context: [brief description]."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #12: Differentiated activities",
+          "text": "Design 3 versions of the same activity for [topic], suitable for: below grade level (needs support), at grade level (independent work), above grade level (extension challenge). Subject: [X]. Core concept: [specific learning goal]. Time: [X minutes]."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #13: Assessment questions",
+          "text": "Generate 10 assessment questions for [topic] at [grade level]. Mix: 3 recall questions, 4 application questions, 3 analysis/evaluation questions. Include answer guide and common misconceptions to watch for. Topic: [specific concept]."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #14: Cross-curricular connections",
+          "text": "Suggest 5 ways to connect [main subject topic] with other curriculum areas. Focus on: natural links that enhance understanding, practical activities students can do, real-world applications. Main topic: [X]. Grade: [X]. Available subjects: [list]."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #15: Starter activities",
+          "text": "Create 5 engaging 10-minute lesson starters for [topic]. Vary the approaches: visual hook, quick game, real-world connection, recap quiz, prediction activity. Requirements: no prep needed, gets all students involved. Topic: [specific area]."
+        },
+        {
+          "type": "callout",
+          "style": "timesaver",
+          "title": "Batch processing",
+          "text": "Generate multiple lesson starters at once, then mix and match throughout the week. Saves 30+ minutes of daily prep."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #16: Review session design",
+          "text": "Plan an engaging review session for [topic/unit]. Include: key concepts to reinforce, interactive recap activities, common mistake corrections, confidence-building elements, final quick assessment. Duration: [X minutes]. Students struggled with: [areas]."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #17: Homework alternatives",
+          "text": "Design 5 homework alternatives for [topic] that work for diverse family situations. Options should: take 15-20 minutes, require minimal resources, allow for family involvement, connect to real life. Topic: [X]. Grade: [X]."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #18: Extension activities",
+          "text": "Create challenging extension tasks for fast finishers studying [topic]. Activities should: deepen understanding, work independently, take 10-15 minutes, require no additional marking. Include 3 options with brief instructions."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #19: Vocabulary introduction",
+          "text": "Design activities to introduce 5-7 key vocabulary terms for [topic]. Include: memorable ways to present each word, simple definition strategies, practice activities, assessment ideas. Target words: [list]. Grade: [X]."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #20: Project scaffolding",
+          "text": "Break down a [duration] project on [topic] into manageable steps. Include: weekly milestones, assessment checkpoints, support resources, common pitfalls to avoid, final presentation format. Project goal: [brief description]."
+        }
+      ]
+    },
+    {
+      "heading": "Feedback & report comments",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Generate meaningful, personalised feedback that helps students grow. These prompts ensure consistency while maintaining authenticity."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #21: Strengths-based feedback",
+          "text": "Write encouraging feedback for [student] in [subject]. Focus on: specific strengths demonstrated, growth since last assessment, next steps that build on strengths, maintain positive tone throughout. Recent work: [brief description]. Keep to 50-75 words."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #22: Improvement feedback",
+          "text": "Create constructive feedback for [subject] work that needs improvement. Include: what was done well first, specific area to develop, practical next step, encouragement to keep trying. Avoid negative language. Work quality: [brief, objective description]."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #23: Report card comments",
+          "text": "Write a balanced report comment for [subject]. Cover: academic progress this term, key strengths, one area for development, attitude towards learning, suggestion for home support. Character count: 200-250. Overall performance: [brief summary]."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #24: Self-assessment prompts",
+          "text": "Create 5 age-appropriate self-reflection questions for [grade level] students about their [subject] learning. Questions should: encourage honest reflection, focus on process not just outcome, be specific to recent work, help identify next steps."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #25: Peer feedback frameworks",
+          "text": "Design a simple peer feedback structure for [activity type]. Include: 2 positive observation prompts, 1 suggestion prompt, sentence starters for shy students, guidelines for respectful feedback. Activity: [brief description]."
+        },
+        {
+          "type": "callout",
+          "style": "research",
+          "title": "Evidence shows",
+          "text": "Students retain feedback better when it's specific, actionable, and balanced. Generic praise ('good work') has minimal impact on learning."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #26: Growth tracking comments",
+          "text": "Document [student's] learning journey in [subject] over this term. Highlight: where they started, key breakthroughs, persistent challenges, improved skills, evidence of growth. Keep encouraging and forward-looking."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #27: Goal-setting feedback",
+          "text": "Help [student] set realistic learning goals for [subject]. Based on current performance, suggest: 1 skill-building goal, 1 confidence goal, 1 challenge goal. Make goals specific and achievable within [timeframe]. Current level: [brief description]."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #28: Portfolio reflection",
+          "text": "Guide [student] to reflect on their portfolio/work collection. Prompt them to: identify their best work and explain why, note biggest learning moments, spot patterns in their progress, set one focus area for next term."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #29: Effort recognition",
+          "text": "Acknowledge [student's] effort and persistence in [challenging area]. Focus on: specific behaviours that show effort, strategies they used, how persistence led to improvement, encourage continued resilience. Recent example: [brief description]."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #30: Conference preparation",
+          "text": "Prepare talking points for parent conference about [student]. Cover: academic strengths, social development, areas needing support, specific examples, suggested home strategies, celebration of progress. Keep balanced and solution-focused."
+        }
+      ]
+    },
+    {
+      "heading": "Behaviour updates & wellbeing check-ins",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Navigate sensitive conversations with care and professionalism. These prompts help you communicate concerns while maintaining positive relationships."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #31: Positive behaviour note",
+          "text": "Share a positive behaviour observation about [student] with their family. Highlight: specific positive action, why it matters, how it helped others/learning, brief encouragement for more of the same. Keep warm but professional. Recent example: [brief description]."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #32: Gentle behaviour concern",
+          "text": "Address a minor behaviour concern with [parent/guardian]. Use: factual observation (no labels), impact on learning, request for support, offer collaborative approach. Avoid blame or judgment. Behaviour: [objective description]. Keep solution-focused."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #33: Social skills celebration",
+          "text": "Celebrate [student's] social growth or friendship skills. Mention: specific social behaviour observed, positive impact on class community, how it shows personal growth, encouragement to continue. Example: [brief, positive situation]."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #34: Emotional check-in",
+          "text": "Craft a caring check-in about [student's] emotional wellbeing. Include: gentle observation about mood/engagement changes, reassurance and support, invitation for student/parent input, offer of help. Keep non-diagnostic and supportive."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #35: Transition support",
+          "text": "Help [student] prepare for [upcoming change/transition]. Create guidance that: acknowledges their feelings, explains what to expect, offers practical coping strategies, reassures about support available. Transition: [brief description]."
+        },
+        {
+          "type": "callout",
+          "style": "tip",
+          "title": "Language that helps",
+          "text": "Use 'I noticed...' instead of 'X is being...'. Focus on actions and impact, not character judgments."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #36: Friendship navigation",
+          "text": "Address friendship concerns with [student] sensitively. Provide: acknowledgment of their feelings, practical friendship skills, strategies for specific situations, reassurance about adult support. Keep age-appropriate and hopeful."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #37: Confidence building",
+          "text": "Support [student] who lacks confidence in [area]. Offer: recognition of their courage in trying, specific strengths to build on, small achievable next steps, reassurance about learning process. Area of concern: [brief description]."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #38: Resilience recognition",
+          "text": "Acknowledge [student's] resilience during [challenging situation]. Highlight: specific coping strategies they used, growth you've observed, qualities that helped them, encouragement for continued strength. Keep encouraging and specific."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #39: Classroom community",
+          "text": "Help [student] understand their role in classroom community. Explain: how their actions affect others, positive contributions they make, ways to be an even better community member, appreciation for their efforts."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #40: Motivation support",
+          "text": "Re-engage [student] who seems disinterested in [subject/activity]. Use: curiosity about their perspective, connection to their interests, offer of choice/control, reminder of past successes, collaborative problem-solving approach."
+        }
+      ]
+    },
+    {
+      "heading": "Translation & tone tuning",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Perfect for multilingual classrooms and fine-tuning your communication style. These prompts help bridge language gaps and adjust tone for different audiences."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #41: Simple language conversion",
+          "text": "Rewrite this message using simpler language suitable for [target audience]: [original message]. Keep the same meaning but: use shorter sentences, choose common words, explain any necessary jargon, maintain respectful tone."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #42: Formal to friendly",
+          "text": "Convert this formal message to a warm, friendly tone while keeping it professional: [message text]. Adjust: word choices, sentence structure, overall warmth, maintain all important information. Target audience: [parents/students/colleagues]."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #43: Multilingual support",
+          "text": "Provide this message in both English and [language], with cultural sensitivity notes: [message]. Ensure: accurate translation, cultural appropriateness, same level of formality, any cultural context needed for understanding."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #44: Age-appropriate adjustment",
+          "text": "Adapt this explanation for [age group]: [content]. Make it: developmentally appropriate, engaging for their interests, easy to understand, include relatable examples. Original explanation: [text]."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #45: Sensitive topic language",
+          "text": "Help me communicate about [sensitive topic] with [audience] using careful, supportive language. Provide: gentle but clear wording, age-appropriate explanations, reassuring tone, practical next steps. Context: [brief situation]."
+        },
+        {
+          "type": "callout",
+          "style": "tip",
+          "title": "Cultural bridge-building",
+          "text": "When working with multilingual families, always ask about preferred communication styles and language preferences. Respect varies by culture."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #46: Urgent tone adjustment",
+          "text": "Rewrite this message to sound less urgent/alarming: [message]. Keep: all factual information, need for response, professional tone. Remove: alarming language, pressure, anxiety-inducing words. Make it informative but calm."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #47: Encouraging reframe",
+          "text": "Reframe this message to sound more encouraging: [original text]. Transform: challenges into growth opportunities, problems into learning chances, criticism into support, while maintaining honesty about the situation."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #48: Professional polish",
+          "text": "Polish this draft for professional communication: [draft text]. Improve: clarity, grammar, tone consistency, structure, while preserving the original meaning and personal touch. Audience: [specify]."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #49: Quick text alternatives",
+          "text": "Create 3 different versions of this message with varying lengths: [original]. Provide: detailed version (email), medium version (note home), brief version (quick text). Keep core message consistent across all versions."
+        },
+        {
+          "type": "card",
+          "title": "Prompt #50: Voice consistency check",
+          "text": "Review these messages for consistent voice and tone: [message 1], [message 2], [message 3]. Ensure: same level of formality, consistent warmth, similar sentence structure, unified professional image. Suggest adjustments if needed."
+        }
+      ]
+    },
+    {
+      "heading": "Prompt patterns cheatsheet",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Master these frameworks to create your own effective prompts. The PASTE pattern works for any teaching communication scenario."
+        },
+        {
+          "type": "card",
+          "title": "PASTE Framework",
+          "text": "Purpose: What do you want the AI to create? Audience: Who will read/use this? Scope: How detailed/long should it be? Tone: What mood/style is appropriate? Evidence: What specific details should be included?"
+        },
+        {
+          "type": "card",
+          "title": "Safety Template",
+          "text": "Always include: 'Do not include any student names, identifying details, or confidential information. Keep language professional and supportive. Focus on [specific area] without making judgments about character.'"
+        },
+        {
+          "type": "dodont",
+          "do": [
+            "Be specific about word count limits",
+            "Include context about your classroom/students",
+            "Ask for multiple options or versions",
+            "Specify the exact tone you need"
+          ],
+          "dont": [
+            "Use vague instructions like 'make it good'",
+            "Include sensitive student information",
+            "Expect perfect results on first try",
+            "Forget to review and personalise outputs"
+          ]
+        },
+        {
+          "type": "callout",
+          "style": "timesaver",
+          "title": "Template creation",
+          "text": "Turn your most-used prompts into templates. Save them with placeholder text like [STUDENT NAME] and [TOPIC] for quick customisation."
+        }
+      ]
+    }
+  ],
+  "tearsheet": {
+    "heading": "12 Highest-Impact Prompts",
+    "bullets": [
+      "Positive behaviour update - Build home-school connections",
+      "Missing homework follow-up - Stay supportive, not punitive", 
+      "Lesson plan scaffold - Cut prep time in half",
+      "Strengths-based feedback - Motivate continued effort",
+      "Simple language conversion - Reach all families",
+      "Gentle behaviour concern - Address issues early",
+      "Quick daily update - Keep parents informed",
+      "Assessment questions - Check real understanding", 
+      "Differentiated activities - Meet every learner's needs",
+      "Report card comments - Balance honesty with encouragement",
+      "Emotional check-in - Support whole child development",
+      "Professional polish - Maintain consistent communication quality"
+    ]
+  }
+}

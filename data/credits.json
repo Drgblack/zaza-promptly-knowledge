@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "teacher-planning.webp": {
+      "source": "placeholder - to be replaced with stock photo",
+      "alt": "Teacher planning at laptop, relaxed while preparing lessons",
+      "searchTerms": "teacher planning at home laptop natural light"
+    },
+    "professional-inbox.webp": {
+      "source": "placeholder - to be replaced with stock photo", 
+      "alt": "Professional replying to emails in inbox, confident and focused",
+      "searchTerms": "professional replying email laptop natural light"
+    }
+  },
+  "intro": {
+    "teacher-desk-planning.webp": {
+      "source": "placeholder - to be replaced with stock photo",
+      "alt": "Teacher smiling at desk, laptop open, planning or sending parent email calmly",
+      "searchTerms": "teacher smiling desk laptop planning calm"
+    },
+    "professional-inbox-focus.webp": {
+      "source": "placeholder - to be replaced with stock photo",
+      "alt": "Professional at laptop in inbox, focused but relaxed", 
+      "searchTerms": "estate agent consultant laptop inbox focused relaxed"
+    }
+  },
+  "testimonials": {
+    "jessica-240.webp": {
+      "source": "placeholder - to be replaced with stock portrait",
+      "alt": "Portrait of Jessica R., Primary Teacher"
+    },
+    "marcus-240.webp": {
+      "source": "placeholder - to be replaced with stock portrait", 
+      "alt": "Portrait of Marcus D., Secondary English teacher"
+    },
+    "hannah-240.webp": {
+      "source": "placeholder - to be replaced with stock portrait",
+      "alt": "Portrait of Hannah S., Estate Agent"
+    },
+    "priya-240.webp": {
+      "source": "placeholder - to be replaced with stock portrait",
+      "alt": "Portrait of Priya K., Solicitor"
+    }
+  }
+}

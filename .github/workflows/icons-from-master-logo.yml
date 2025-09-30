@@ -1,0 +1,47 @@
+name: Icons from Master Logo
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - "public/images/zaza-logo.png"
+      - "scripts/generate-icons.mjs"
+      - "package.json"
+      - "package-lock.json"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build-icons:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Generate icons from /public/images/zaza-logo.png
+        run: npm run build:icons
+
+      - name: Commit & push generated icons (if changed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/favicon.ico public/apple-touch-icon.png public/android-chrome-192x192.png public/android-chrome-512x512.png public/manifest.webmanifest || true
+          # also add any other images favicons may output
+          git add public/*.png public/*.ico || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(icons): auto-regenerate favicon/app icons from master logo"
+            git push
+          else
+            echo "No icon changes to commit."
+          fi

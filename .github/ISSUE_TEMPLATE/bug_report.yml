@@ -1,0 +1,29 @@
+﻿name: Bug report (docs/data)
+description: Report incorrect/unclear rules, strategy text, or dataset issues.
+title: "[BUG] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: Describe the problem and where it appears (file/section).
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+  - type: textarea
+    id: repro
+    attributes:
+      label: Reproduction / example snippet
+  - type: checkboxes
+    id: files
+    attributes:
+      label: Areas affected
+      options:
+        - label: Rules
+        - label: Strategies
+        - label: Golden tests
+        - label: Names CSV

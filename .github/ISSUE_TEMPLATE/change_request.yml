@@ -1,0 +1,42 @@
+﻿name: Change request
+description: Propose updates to rules, strategies, test cases, or datasets.
+title: "[CHANGE] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: What should change and why?
+    validations:
+      required: true
+  - type: textarea
+    id: examples
+    attributes:
+      label: Example outputs
+      description: Provide before/after snippets or expected text.
+  - type: checkboxes
+    id: scope
+    attributes:
+      label: Scope
+      options:
+        - label: Rules
+        - label: Strategies
+        - label: Test cases
+        - label: Names CSV
+        - label: Other docs
+  - type: checkboxes
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      options:
+        - label: Word count stays 95–120
+        - label: Exactly 3 paragraphs
+        - label: No banned words
+        - label: Pronouns consistent & grammatical
+        - label: At least two concrete actions present
+  - type: textarea
+    id: impact
+    attributes:
+      label: Impact on outputs
+      description: Describe how messages will change (tone, structure, strategies).
